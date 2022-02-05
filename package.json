@@ -10,6 +10,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "^3.0.1",
+    "source-map-url": "^0.4.1",
+    "urix": "^0.1.0",
+    "uuid": "^8.3.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
